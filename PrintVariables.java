@@ -6,6 +6,6 @@ class PrintVariables {
         System.out.println("Today is " + "Wednesday.");
     	System.out.println("Number = " + number);
         System.out.println("Hey! Ho! Let's go!"); 
-        System.out.println("kkkkkkkkk ole kkkkkkk" ); 
+        System.out.println("kkkkkkkkk ole jejejejejejeje kkkkkkk" ); 
     }
 }
