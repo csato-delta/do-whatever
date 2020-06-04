@@ -7,5 +7,6 @@ class PrintVariables {
         System.out.println("Today is " + "great day.");
         System.out.println("Today is " + "Wednesday.");
     	System.out.println("Number = " + number);
+        System.out.println("Hey! Ho! Let's go!");
     }
 }
